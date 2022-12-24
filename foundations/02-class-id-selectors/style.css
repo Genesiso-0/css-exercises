@@ -1,0 +1,16 @@
+.general {
+  background-color: rgb(247, 135, 154);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second {
+  color: blue;
+  font-size: 36px;
+}
+.cooler {
+  font-size: 24px;
+}
+#forth {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
